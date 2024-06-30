@@ -1,0 +1,36 @@
+Weather Forecast: ------------
+It's rainy today.
+Temperature: 16.0°C / 60.8°F
+
+------------------------------
+
+News: ------------------------
+A new children's playground was opened in the new area
+London, 30/06/2024 13:51
+
+------------------------------
+
+Advertisement: ---------------
+We look forward to seeing you at our restaurant on Lincoln Street.
+Actual until: 12/07/2024, 12 days left
+
+------------------------------
+
+Weather Forecast: ------------
+It's clear.
+Temperature: 23.0°C / 73.4°F
+
+------------------------------
+
+Advertisement: ---------------
+We invite you to the cinema today for the premiere screening.
+Actual until: 01/07/2024, 1 days left
+
+------------------------------
+
+News: ------------------------
+A solar eclipse was visible yesterday afternoon.
+NewYork, 30/06/2024 14:08
+
+------------------------------
+
