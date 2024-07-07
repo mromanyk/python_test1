@@ -19,9 +19,10 @@ def create_random_dict():
 num_dicts = random.randint(2, 10)
 list_of_dicts = [create_random_dict() for _ in range(num_dicts)]
 
-print("---------- refactor task 2: ----------")
-print("\nlist_of_dicts:")
-print(list_of_dicts)
+if __name__ == '__main__':
+    print("---------- refactor task 2: ----------")
+    print("\nlist_of_dicts:")
+    print(list_of_dicts)
 
 
 # part 2 added 2 functions
@@ -59,8 +60,9 @@ def create_final_dict(combined_dict):
     return final_dict
 
 
-print("\nCombined dictionary:")
-print(create_final_dict(combined_dict))
+if __name__ == '__main__':
+    print("\nCombined dictionary:")
+    print(create_final_dict(combined_dict))
 
 # refactor task 3
 # assign the value of the variable
@@ -119,6 +121,7 @@ def whitespace_count(input_text):
             count += 1
     return count
 
-print("---------- refactor task 3: ----------")
-print(final_text(homework_text),last_words_text(homework_text))
-print(f"The number of whitespace characters in the text is: {whitespace_count(homework_text)}")
+if __name__ == '__main__':
+    print("---------- refactor task 3: ----------")
+    print(final_text(homework_text), last_words_text(homework_text))
+    print(f"The number of whitespace characters in the text is: {whitespace_count(homework_text)}")

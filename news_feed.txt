@@ -16,21 +16,63 @@ Actual until: 12/07/2024, 12 days left
 
 ------------------------------
 
-Weather Forecast: ------------
-It's clear.
-Temperature: 23.0°C / 73.4°F
+News: ------------------------
+My second News!!!
+Wroclaw, 07/07/2024 14:38
 
 ------------------------------
 
 Advertisement: ---------------
-We invite you to the cinema today for the premiere screening.
-Actual until: 01/07/2024, 1 days left
+We are look forward to seeing you at our coffe shop on red street.
+Actual until: 12/07/2024, 5 days left
 
 ------------------------------
 
 News: ------------------------
-A solar eclipse was visible yesterday afternoon.
-NewYork, 30/06/2024 14:08
+content 4
+Grodno, 07/07/2024 14:50
+
+------------------------------
+
+Weather Forecast: ------------
+It's sunny today.
+Temperature: 40.0°C / 104.0°F
+
+------------------------------
+
+News: ------------------------
+You need to normalize it from letter cases point of view. Also, create one more sentence with last words of each existing sentence and add it to the end of this paragraph.
+London, 07/07/2024 14:55
+
+------------------------------
+
+Advertisement: ---------------
+We are look forward to seeing you at our coffe shop on red street.
+Actual until: 12/07/2024, 5 days left
+
+------------------------------
+
+Weather Forecast: ------------
+Today its very hot!!!
+Temperature: 34.0°C / 93.2°F
+
+------------------------------
+
+Weather Forecast: ------------
+It's sunny today and hot.
+Temperature: 39.0°C / 102.2°F
+
+------------------------------
+
+News: ------------------------
+Second time you need to normalize it from letter cases point of view. Also, create one more sentence with last words of each existing sentence and add it to the end of this paragraph.
+Lester, 07/07/2024 15:01
+
+------------------------------
+
+Advertisement: ---------------
+We are look forward to see you at our football lesson on green street.
+Actual until: 18/07/2024, 11 days left
 
 ------------------------------
 
